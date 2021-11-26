@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... How to surve COVID
+- 🌱 I’m currently learning ... Go
+- 👯 I’m looking to collaborate on ... Home Automation Maker projects
+- 🤔 I’m looking for help with ... how to solve world hunger
+- 💬 Ask me about ... whatever you want! :)
+- 📫 How to reach me: dreed10@gmail.com
+- 😄 Pronouns: GrandMaster
+- ⚡ Fun fact: ...
+
 <!--
 **dreed47/dreed47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
