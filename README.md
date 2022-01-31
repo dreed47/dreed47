@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... How to surve COVID
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... Go
 - 👯 I’m looking to collaborate on ... Home Automation Maker projects
 - 🤔 I’m looking for help with ... the [WifiMQTTManager project](https://github.com/dreed47/WifiMQTTManager)
